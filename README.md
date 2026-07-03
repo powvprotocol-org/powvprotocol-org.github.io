@@ -10,4 +10,4 @@ The PoWV Protocol establishes deterministic trust for Real-World Assets (RWA) by
 * **Deterministic Trust:** Eliminating oracle vulnerabilities through root-of-trust hardware security.
 
 ---
-*For official documentation and protocol overview, visit [powvprotocol.com](https://powvprotocol.com).*
+*For official documentation and protocol overview, visit [powvprotocol.com](https://powvprotocol.com)*
