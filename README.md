@@ -1,4 +1,4 @@
-# PoWV Protocol (Proof of Weighted Value)
+# PoWV Protocol
 
 Official public interface and documentation repository for the PoWV Protocol research and laboratory environment.
 
