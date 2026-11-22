@@ -14,7 +14,7 @@ The current implementation is an experimental proof of concept. It does not clai
 
 ## Current Validation Scope
 
-Laboratory work currently covers physical scale acquisition, host-side event normalization, SHA-256 event identification, HTTP delivery to an ESP32 receiver, ECDSA P-256 verification in a separate binary gateway flow, replay controls, and local audit aggregation. The physical scale path and the signed gateway path are not yet a single production-qualified end-to-end system.
+Laboratory work currently covers physical scale acquisition, host-side event normalization, SHA-256 event identification, HTTP delivery to an ESP32 receiver, digital-signature verification in a separate binary gateway flow, replay controls, and local audit aggregation. The physical scale path and the signed gateway path are not yet a single production-qualified end-to-end system.
 
 ---
 
